@@ -3,7 +3,7 @@
 define('APPLICATION', 'Catalog');
 
 // HTTP
-define('HTTP_SERVER', 'https://quangthaictc-shopping-afaf490781ab.herokuapp.com');
+define('HTTP_SERVER', 'https://quangthaictc-shopping-afaf490781ab.herokuapp.com/');
 
 // DIR
 define('DIR_OPENCART', '/app/');

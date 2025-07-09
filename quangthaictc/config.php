@@ -4,7 +4,7 @@ define('APPLICATION', 'Admin');
 
 // HTTP
 define('HTTP_SERVER', 'https://quangthaictc-shopping-afaf490781ab.herokuapp.com/quangthaictc/');
-define('HTTP_CATALOG', 'https://quangthaictc-shopping-afaf490781ab.herokuapp.com');
+define('HTTP_CATALOG', 'https://quangthaictc-shopping-afaf490781ab.herokuapp.com/');
 
 // DIR
 define('DIR_OPENCART', '/app/');
@@ -32,7 +32,7 @@ define('DB_DATABASE', 'quangthaictc-shopping');
 define('DB_PORT', '5179');
 define('DB_PREFIX', 'tb_');
 
-// SSL (nếu có, còn không thì để chuỗi rỗng)
+// SSL
 define('DB_SSL_KEY', '');
 define('DB_SSL_CERT', '');
 define('DB_SSL_CA', '');
