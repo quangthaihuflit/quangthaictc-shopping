@@ -8,7 +8,7 @@ define('HTTP_CATALOG', 'https://quangthaictc-shopping-afaf490781ab.herokuapp.com
 
 // DIR
 define('DIR_OPENCART', '/app/');
-define('DIR_APPLICATION', DIR_OPENCART . 'admin/');
+define('DIR_APPLICATION', DIR_OPENCART . 'quangthaictc/');
 define('DIR_EXTENSION', DIR_OPENCART . 'extension/');
 define('DIR_IMAGE', DIR_OPENCART . 'image/');
 define('DIR_SYSTEM', DIR_OPENCART . 'system/');
